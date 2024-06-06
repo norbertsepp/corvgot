@@ -1,8 +1,8 @@
 # corvgot
 GOT DS workshop on Corvinus
 
-Necessary components for the workshop
+Necessary components for the workshop:
 
-- maps: the maps and the cities
-- pres_templ: the presentation template needed for the final stage
-- workshop_description: the details, rules, explanations
+- __maps__: the maps and the cities
+- __pres_templ__: the presentation template needed for the final stage
+- __workshop_description__: the details, rules, explanations
